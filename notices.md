@@ -2,4 +2,5 @@
 layout: base
 ---
 
-There are currently no notices.
+# Notice
+- There are currently no notices.

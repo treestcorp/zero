@@ -2,126 +2,126 @@
 layout: base
 ---
 
-# 개인정보처리방침
+# Privacy Policy
 
-**시행일**: 2026년 2월 9일
+**Effective Date**: February 9, 2026
 
-트리스트(이하 "회사")는 「개인정보 보호법」에 따라 이용자의 개인정보를 보호하고 이와 관련한 고충을 신속하게 처리하기 위하여 다음과 같이 개인정보처리방침을 수립·공개합니다.
+Treest (hereinafter referred to as the "Company") establishes and discloses this Privacy Policy as follows in order to protect users' personal information and promptly handle related grievances in accordance with the Personal Information Protection Act.
 
-## 제1조 (수집하는 개인정보 항목 및 수집 방법)
+## Article 1 (Items of Personal Information Collected and Collection Methods)
 
-### 1. 수집 항목
+### 1. Collected Items
 
-#### 익명 이용자
-- **수집 항목**: 기기 고유 식별자(익명 UID)
-- **수집 목적**: 서비스 이용 및 학습 데이터 저장
+#### Anonymous Users
+- **Collected Items**: Device unique identifier (anonymous UID)
+- **Purpose of Collection**: Service usage and learning data storage
 
-#### 클라우드 계정(Google 등) 연동 회원
-- **수집 항목**: 이메일 주소, 클라우드 계정 고유 식별자(UID)
-- **수집 목적**: 회원 식별, 클라우드 동기화
+#### Cloud Account (Google, etc.) Linked Members
+- **Collected Items**: Email address, cloud account unique identifier (UID)
+- **Purpose of Collection**: Member identification, cloud synchronization
 
-#### 서비스 이용 기록
-- **수집 항목**: 학습 이력, 복습 일정, 난이도 평가, 학습 진도
-- **수집 목적**: 맞춤형 학습 서비스 제공
+#### Service Usage Records
+- **Collected Items**: Learning history, review schedule, difficulty evaluation, learning progress
+- **Purpose of Collection**: Providing personalized learning services
 
-### 2. 수집 방법
-- 서비스 최초 실행 시 자동 생성 (익명 계정)
-- 이용자의 직접 동의를 통한 Google 등 계정 연동
-- 서비스 이용 과정에서 자동 생성
+### 2. Collection Methods
+- Automatically generated upon first launch of the service (anonymous account)
+- Direct user consent through Google, etc. account linking
+- Automatically generated during service usage
 
-## 제2조 (개인정보의 처리 목적)
+## Article 2 (Purpose of Processing Personal Information)
 
-회사는 수집한 개인정보를 다음의 목적으로 처리합니다.
+The Company processes collected personal information for the following purposes:
 
-1. 서비스 제공: 영작 연습, 복습 일정 관리, 학습 진도 관리
-2. 회원 관리: 회원 식별, 본인 확인, 계정 연동
-3. 클라우드 동기화: Google 등 연동 회원의 기기 간 학습 데이터 동기화
-4. 서비스 개선: 서비스 이용 통계 분석 및 품질 향상
+1. Service provision: English writing practice, review schedule management, learning progress management
+2. Member management: Member identification, identity verification, account linking
+3. Cloud synchronization: Synchronization of learning data across devices for Google-linked members
+4. Service improvement: Statistical analysis of service usage and quality enhancement
 
-## 제3조 (개인정보의 보유 및 이용 기간)
+## Article 3 (Retention and Use Period of Personal Information)
 
-1. 회사는 개인정보 수집 및 이용 목적이 달성된 후에는 해당 정보를 지체 없이 파기합니다.
-2. 구체적인 보유 기간은 다음과 같습니다.
+1. The Company destroys the relevant information without delay once the purpose of collection and use of personal information is achieved.
+2. Specific retention periods are as follows:
 
-   - **익명 이용자 데이터**: 앱 삭제 또는 계정 삭제 시까지
-   - **Google 연동 회원 데이터**: 회원 탈퇴(계정 삭제) 시까지
-   - **학습 이력 데이터**: 이용자의 초기화 요청 또는 계정 삭제 시까지
+    - **Anonymous user data**: Until app deletion or account deletion
+    - **Google-linked member data**: Until member withdrawal (account deletion)
+    - **Learning history data**: Until user initialization request or account deletion
 
-3. 관계 법령에 따라 보존이 필요한 경우 해당 법령에서 정한 기간 동안 보관합니다.
+3. If retention is required under relevant laws, the information will be retained for the period stipulated by those laws.
 
-## 제4조 (개인정보의 제3자 제공)
+## Article 4 (Provision of Personal Information to Third Parties)
 
-회사는 이용자의 개인정보를 제1조에서 명시한 목적 범위 내에서만 처리하며, 이용자의 사전 동의 없이 제3자에게 제공하지 않습니다.  
-다만, 다음의 경우에는 예외로 합니다.
+The Company processes users' personal information only within the purposes specified in Article 1 and does not provide it to third parties without prior user consent.  
+However, the following cases are exceptions:
 
-1. 이용자가 사전에 동의한 경우
-2. 법령의 규정에 의하거나, 수사 목적으로 법령에 정해진 절차와 방법에 따라 수사기관의 요구가 있는 경우
+1. When the user has given prior consent
+2. When required by law or requested by investigative agencies in accordance with legally prescribed procedures and methods for investigative purposes
 
-## 제5조 (개인정보 처리의 위탁)
+## Article 5 (Entrustment of Personal Information Processing)
 
-회사는 서비스 제공을 위해 다음과 같이 개인정보 처리 업무를 위탁하고 있습니다.
+The Company entrusts personal information processing tasks as follows:
 
-- **수탁업체**: Google LLC (Firebase)
-- **위탁 업무**: 인증 서비스 운영, 클라우드 데이터 저장
-- **보유 기간**: 위탁 계약 종료 시까지
+- **Entrusted Company**: Google LLC (Firebase)
+- **Entrusted Tasks**: Authentication service operation, cloud data storage
+- **Retention Period**: Until the end of the entrustment contract
 
-## 제6조 (이용자의 권리와 행사 방법)
+## Article 6 (User Rights and How to Exercise Them)
 
-이용자는 다음의 권리를 행사할 수 있습니다.
+Users may exercise the following rights:
 
-1. **학습 데이터 초기화**: 서비스 내 설정에서 학습 이력 및 복습 이력을 직접 초기화할 수 있습니다.
-2. **계정 삭제**: 서비스 내에서 계정 삭제를 요청할 수 있으며, 삭제 시 모든 개인정보와 학습 데이터가 즉시 파기됩니다.
-3. **로그아웃**: Google 연동을 해제하고 익명 상태로 전환할 수 있습니다. 이 경우 새로운 익명 계정이 생성되며, 기존 Google 계정의 데이터는 재로그인 시 복구됩니다.
-4. **개인정보 열람·정정·삭제 요청**: 아래 연락처를 통해 요청할 수 있습니다.
+1. **Learning Data Initialization**: Users can directly initialize learning history and review history in the service settings.
+2. **Account Deletion**: Users can request account deletion within the service, and all personal information and learning data will be immediately destroyed upon deletion.
+3. **Logout**: Users can unlink Google and switch to anonymous status. In this case, a new anonymous account is created, and data from the previous Google account can be restored upon re-login.
+4. **Request for Access, Correction, or Deletion of Personal Information**: Requests can be made through the contact information below.
 
-## 제7조 (개인정보의 파기)
+## Article 7 (Destruction of Personal Information)
 
-1. 회사는 개인정보의 보유 기간이 경과하거나 처리 목적이 달성된 경우 지체 없이 해당 개인정보를 파기합니다.
-2. 파기 절차 및 방법은 다음과 같습니다.
+1. The Company destroys personal information without delay when the retention period expires or the processing purpose is achieved.
+2. Destruction procedures and methods are as follows:
 
-   - **전자적 파일**: 기록을 복구할 수 없도록 영구 삭제
-   - **기타 기록물**: 분쇄 또는 소각
+    - **Electronic files**: Permanently deleted so that records cannot be recovered
+    - **Other records**: Shredded or incinerated
 
-## 제8조 (개인정보의 안전성 확보 조치)
+## Article 8 (Measures to Ensure the Safety of Personal Information)
 
-회사는 개인정보의 안전성 확보를 위해 다음과 같은 조치를 취하고 있습니다.
+The Company takes the following measures to ensure the safety of personal information:
 
-1. 데이터 전송 시 SSL/TLS 암호화 통신 적용
-2. Firebase 보안 규칙을 통한 데이터 접근 제어
-3. 이용자 본인의 데이터에만 접근 가능하도록 UID 기반 권한 관리
+1. SSL/TLS encryption applied during data transmission
+2. Data access control through Firebase security rules
+3. UID-based access control so that only the user's own data can be accessed
 
-## 제9조 (자동 수집되는 정보)
+## Article 9 (Automatically Collected Information)
 
-서비스 이용 과정에서 다음 정보가 기기에 자동으로 저장됩니다. 이 정보는 서버에 전송되지 않으며 기기 내에서만 사용됩니다.
+The following information is automatically stored on the device during service use. This information is not transmitted to the server and is used only on the device:
 
-- 학습 설정 (정답 표시 방식)
-- 오디오 성별 설정
+- Learning settings (correct answer display method)
+- Audio gender settings
 
-## 제10조 (아동의 개인정보 보호)
+## Article 10 (Protection of Children's Personal Information)
 
-회사는 만 14세 미만 아동의 개인정보를 수집하는 경우 법정대리인의 동의를 받습니다.  
-만 14세 미만 아동의 법정대리인은 아동의 개인정보에 대한 열람, 정정, 삭제를 요청할 수 있습니다.
+The Company obtains consent from legal guardians when collecting personal information of children under 14 years of age.  
+Legal guardians of children under 14 may request access, correction, or deletion of the child's personal information.
 
-## 제11조 (개인정보 보호책임자)
+## Article 11 (Personal Information Protection Officer)
 
-회사는 개인정보 처리에 관한 업무를 총괄하여 책임지고, 이와 관련한 이용자의 불만 처리 및 피해 구제를 위하여 아래와 같이 개인정보 보호책임자를 지정하고 있습니다.
+The Company designates a Personal Information Protection Officer to oversee personal information processing, handle user complaints, and provide remedies for damages as follows:
 
-- **회사명**: 트리스트
-- **이메일**: support@treestcorp.com
+- **Company Name**: Treest
+- **Email**: support@treestcorp.com
 
-## 제12조 (권익침해 구제방법)
+## Article 12 (Remedies for Infringement of Rights and Interests)
 
-이용자는 개인정보 침해에 대한 피해 구제를 아래 기관에 문의할 수 있습니다.
+Users may inquire about remedies for personal information infringement with the following institutions:
 
-- 개인정보분쟁조정위원회: 1833-6972 [](http://www.kopico.go.kr)
-- 개인정보침해신고센터: 118 [](https://privacy.kisa.or.kr)
-- 대검찰청 사이버수사과: 1301 [](http://www.spo.go.kr)
-- 경찰청 사이버안전국: 182 [](https://ecrm.cyber.go.kr)
+- Personal Information Dispute Mediation Committee: 1833-6972[](http://www.kopico.go.kr)
+- Personal Information Infringement Reporting Center: 118[](https://privacy.kisa.or.kr)
+- Supreme Prosecutors' Office Cyber Investigation Division: 1301[](http://www.spo.go.kr)
+- National Police Agency Cyber Safety Bureau: 182[](https://ecrm.cyber.go.kr)
 
-## 제13조 (개인정보처리방침의 변경)
+## Article 13 (Changes to the Privacy Policy)
 
-본 개인정보처리방침은 법령, 정책 또는 보안 기술의 변경에 따라 내용이 추가, 삭제 및 수정될 수 있으며, 변경 시 시행일자 최소 7일 전에 서비스 내 공지를 통해 안내합니다.
+This Privacy Policy may be added to, deleted from, or modified in accordance with changes in laws, policies, or security technologies. When changes are made, users will be notified at least 7 days in advance through in-service notices, stating the effective date.
 
-## 부칙
+## Supplementary Provisions
 
-본 개인정보처리방침은 **2026년 2월 9일**부터 시행됩니다.
+This Privacy Policy takes effect from **February 9, 2026**.

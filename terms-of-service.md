@@ -2,109 +2,109 @@
 layout: base
 ---
 
-# 서비스 이용약관
+# Terms of Service
 
-**시행일**: 2026년 2월 9일
+**Effective Date**: February 9, 2026
 
-## 제1조 (목적)
+## Article 1 (Purpose)
 
-본 약관은 트리스트(이하 "회사")가 제공하는 "영영: 영어회화 영작연습"(이하 "서비스")의 이용과 관련하여 회사와 이용자 간의 권리, 의무 및 책임사항을 규정함을 목적으로 합니다.
+These Terms of Service are intended to define the rights, obligations, and responsibilities between Treest (hereinafter referred to as the "Company") and the users regarding the use of the service "영영: English Conversation & Writing Practice" (hereinafter referred to as the "Service") provided by the Company.
 
-## 제2조 (용어의 정의)
+## Article 2 (Definitions of Terms)
 
-1. **"서비스"**란 회사가 제공하는 영어 작문 연습 모바일 애플리케이션 및 관련 제반 서비스를 의미합니다.
-2. **"이용자"**란 본 약관에 동의하고 서비스를 이용하는 자를 의미합니다.
-3. **"회원"**이란 Google 등 계정을 연동하여 서비스에 로그인한 이용자를 의미합니다.
-4. **"비회원"**이란 별도의 로그인 없이 익명 상태로 서비스를 이용하는 자를 의미합니다.
-5. **"학습 데이터"**란 이용자의 문장 학습 이력, 복습 일정, 난이도 평가 기록 등 서비스 이용 과정에서 생성되는 데이터를 의미합니다.
+1. **"Service"** refers to the mobile application for English writing practice and all related services provided by the Company.
+2. **"User"** refers to any person who agrees to these Terms and uses the Service.
+3. **"Member"** refers to a user who has logged in to the Service by linking an external account such as Google.
+4. **"Non-member"** refers to a user who uses the Service in an anonymous state without separate login.
+5. **"Learning Data"** refers to data generated during the use of the Service, such as sentence learning history, review schedule, difficulty evaluation records, etc.
 
-## 제3조 (약관의 효력 및 변경)
+## Article 3 (Effect and Amendment of the Terms)
 
-1. 본 약관은 서비스 화면에 게시하거나 기타의 방법으로 이용자에게 공지함으로써 효력이 발생합니다.
-2. 회사는 관련 법령에 위배되지 않는 범위에서 약관을 개정할 수 있으며, 개정 시 적용일자 및 변경 사유를 명시하여 최소 7일 전에 공지합니다.
-3. 변경된 약관에 동의하지 않는 이용자는 서비스 이용을 중단하고 탈퇴할 수 있습니다.
+1. These Terms take effect when posted on the Service screen or notified to users by other means.
+2. The Company may amend the Terms within the scope that does not violate relevant laws, and in case of amendment, the effective date and reasons for change will be specified and announced at least 7 days in advance.
+3. Users who do not agree to the amended Terms may discontinue use of the Service and withdraw.
 
-## 제4조 (서비스의 내용)
+## Article 4 (Contents of the Service)
 
-회사가 제공하는 서비스는 다음과 같습니다.
+The Service provided by the Company includes the following:
 
-1. 한국어 문장을 영어로 작문하는 영작 연습 기능
-2. 단계별 학습 커리큘럼 제공
-3. FSRS 알고리즘 기반 복습 일정 관리
-4. 문장 발음 오디오 재생 기능
-5. 학습 진도 및 통계 제공
-6. 기타 회사가 추가 개발하거나 제휴를 통해 제공하는 서비스
+1. Feature for writing Korean sentences in English (English composition practice)
+2. Step-by-step learning curriculum
+3. Review schedule management based on the FSRS algorithm
+4. Sentence pronunciation audio playback feature
+5. Learning progress and statistics
+6. Other services additionally developed by the Company or provided through partnerships
 
-## 제5조 (계정 및 인증)
+## Article 5 (Account and Authentication)
 
-1. 이용자는 별도의 회원가입 없이 익명 상태로 서비스를 이용할 수 있습니다.
-2. 익명 이용자의 학습 데이터는 해당 기기에서만 유효하며, 앱 삭제 또는 기기 변경 시 복구되지 않습니다.
-3. Google 등 외부 계정을 연동한 회원의 학습 데이터는 클라우드에 저장되어 기기 간 동기화가 가능합니다.
-4. 로그아웃 시 새로운 익명 계정이 생성되며, 로그아웃 상태에서의 학습 데이터는 기존 Google 계정과 연결되지 않습니다.
-5. 이용자는 자신의 계정 정보를 관리할 책임이 있으며, 이를 제3자에게 양도하거나 대여할 수 없습니다.
+1. Users may use the Service in an anonymous state without separate membership registration.
+2. Learning data of anonymous users is valid only on the corresponding device and cannot be recovered upon app deletion or device change.
+3. Learning data of members who linked an external account such as Google is stored in the cloud and can be synchronized across devices.
+4. Upon logout, a new anonymous account is created, and learning data in the logged-out state is not connected to the previous Google account.
+5. Users are responsible for managing their account information and may not transfer or lend it to third parties.
 
-## 제6조 (서비스의 제공 및 변경)
+## Article 6 (Provision and Modification of the Service)
 
-1. 서비스는 연중무휴, 1일 24시간 제공함을 원칙으로 합니다.
-2. 회사는 다음 각 호에 해당하는 경우 서비스의 전부 또는 일부를 제한하거나 중단할 수 있습니다.
+1. The Service is provided 24 hours a day, 365 days a year in principle.
+2. The Company may restrict or suspend all or part of the Service in the following cases:
 
-   - 서비스용 설비의 보수, 점검, 교체 등 기술적 필요가 있는 경우
-   - 시스템 장애, 서비스 이용 폭주 등으로 정상적인 서비스 제공이 어려운 경우
-   - 천재지변, 국가비상사태 등 불가항력적 사유가 발생한 경우
+    - When technical maintenance, inspection, replacement, etc. of service facilities is necessary
+    - When normal service provision is difficult due to system failure, excessive user traffic, etc.
+    - When force majeure events such as natural disasters or national emergencies occur
 
-3. 회사는 서비스의 내용, 운영 방식을 변경할 수 있으며, 변경 시 사전에 공지합니다.
+3. The Company may change the contents or operation method of the Service and will notify users in advance of any changes.
 
-## 제7조 (학습 데이터의 관리)
+## Article 7 (Management of Learning Data)
 
-1. 이용자는 서비스 내에서 학습 이력 초기화 기능을 통해 자신의 학습 데이터를 삭제할 수 있습니다.
-2. 복습 이력 초기화 시 선택한 난이도에 해당하는 복습 일정 데이터가 삭제됩니다.
-3. 학습 이력 초기화는 되돌릴 수 없으며, 이용자 본인의 판단에 따라 실행해야 합니다.
-4. 회사는 서비스 운영상 필요한 경우 학습 콘텐츠(문장 등)를 추가, 수정, 삭제할 수 있습니다.
+1. Users may delete their learning data through the learning history initialization feature within the Service.
+2. When initializing review history, review schedule data corresponding to the selected difficulty level is deleted.
+3. Learning history initialization is irreversible and must be performed at the user's own discretion.
+4. The Company may add, modify, or delete learning content (sentences, etc.) as necessary for Service operation.
 
-## 제8조 (이용자의 의무)
+## Article 8 (User Obligations)
 
-이용자는 다음 행위를 하여서는 안 됩니다.
+Users shall not engage in the following acts:
 
-1. 서비스의 정상적인 운영을 방해하는 행위
-2. 서비스를 통해 얻은 콘텐츠를 회사의 사전 동의 없이 복제, 배포, 출판하는 행위
-3. 타인의 개인정보를 도용하여 서비스를 이용하는 행위
-4. 서비스를 영리 목적으로 무단 이용하는 행위
-5. 서비스의 기술적 보호 조치를 우회하거나 무력화하는 행위
-6. 기타 관련 법령에 위반되는 행위
+1. Acts that interfere with the normal operation of the Service
+2. Reproduction, distribution, or publication of content obtained through the Service without prior consent of the Company
+3. Using the Service by impersonating another person's personal information
+4. Unauthorized commercial use of the Service
+5. Bypassing or disabling technical protection measures of the Service
+6. Any other acts that violate relevant laws
 
-## 제9조 (회사의 의무)
+## Article 9 (Obligations of the Company)
 
-1. 회사는 관련 법령과 본 약관이 정하는 바에 따라 지속적이고 안정적인 서비스 제공을 위해 노력합니다.
-2. 회사는 이용자의 개인정보를 보호하기 위해 개인정보처리방침을 수립하고 이를 준수합니다.
-3. 회사는 서비스 이용과 관련하여 이용자로부터 제기된 의견이나 불만이 정당하다고 인정되는 경우 이를 처리하기 위해 노력합니다.
+1. The Company will endeavor to provide continuous and stable Service in accordance with relevant laws and these Terms.
+2. The Company will establish and comply with a Privacy Policy to protect users' personal information.
+3. The Company will endeavor to handle opinions or complaints raised by users regarding Service use when deemed legitimate.
 
-## 제10조 (지식재산권)
+## Article 10 (Intellectual Property Rights)
 
-1. 서비스 내의 학습 콘텐츠(문장, 음성, 커리큘럼 구성 등)에 대한 저작권 및 지식재산권은 회사 귀속됩니다.
-2. 이용자는 서비스를 통해 제공받은 콘텐츠를 개인 학습 목적으로만 사용할 수 있으며, 이를 상업적으로 이용하거나 제3자에게 제공할 수 없습니다.
+1. Copyright and intellectual property rights to learning content (sentences, audio, curriculum structure, etc.) within the Service belong to the Company.
+2. Users may use the content provided through the Service only for personal learning purposes and may not use it commercially or provide it to third parties.
 
-## 제11조 (서비스 이용의 제한 및 중지)
+## Article 11 (Restriction and Suspension of Service Use)
 
-1. 회사는 이용자가 본 약관의 의무를 위반하거나 서비스의 정상적인 운영을 방해한 경우 서비스 이용을 제한하거나 중지할 수 있습니다.
-2. 회사는 전항에 따라 서비스 이용을 제한하거나 중지하는 경우 그 사유 및 기간을 이용자에게 통지합니다.
+1. The Company may restrict or suspend a user's use of the Service if the user violates these Terms or interferes with the normal operation of the Service.
+2. When restricting or suspending Service use under the preceding paragraph, the Company will notify the user of the reason and period.
 
-## 제12조 (계약 해지 및 탈퇴)
+## Article 12 (Termination of Contract and Withdrawal)
 
-1. 이용자는 언제든지 서비스 내 계정 삭제 기능을 통해 이용 계약을 해지할 수 있습니다.
-2. 계정 삭제 시 해당 계정에 저장된 모든 학습 데이터는 즉시 삭제되며, 복구되지 않습니다.
+1. Users may terminate the use agreement at any time through the account deletion feature within the Service.
+2. Upon account deletion, all learning data stored in the corresponding account will be immediately deleted and cannot be recovered.
 
-## 제13조 (면책조항)
+## Article 13 (Disclaimer)
 
-1. 회사는 천재지변, 전쟁, 기간통신사업자의 서비스 중지 등 불가항력으로 인해 서비스를 제공할 수 없는 경우에는 책임이 면제됩니다.
-2. 회사는 이용자의 귀책사유로 인한 서비스 이용 장애에 대해 책임을 지지 않습니다.
-3. 회사는 이용자가 서비스를 이용하여 기대하는 학습 효과를 보장하지 않습니다.
-4. 익명 이용자의 학습 데이터 유실에 대해 회사는 책임을 지지 않습니다. 데이터 보존을 위해 클라우드 계정 연동을 권장합니다.
+1. The Company is exempt from liability when it is unable to provide the Service due to force majeure events such as natural disasters, war, or suspension of telecommunications services by the carrier.
+2. The Company is not liable for Service usage disruptions caused by the user's fault.
+3. The Company does not guarantee any learning effects that users expect from using the Service.
+4. The Company is not liable for loss of learning data of anonymous users. Linking a cloud account is recommended to preserve data.
 
-## 제14조 (분쟁 해결)
+## Article 14 (Dispute Resolution)
 
-1. 본 약관과 관련하여 분쟁이 발생한 경우 회사와 이용자는 원만한 해결을 위해 성실히 협의합니다.
-2. 협의로 해결되지 않을 경우 관련 법령에 따른 관할 법원에 소를 제기할 수 있습니다.
+1. In the event of any dispute related to these Terms, the Company and the user shall sincerely negotiate in good faith for an amicable resolution.
+2. If the dispute cannot be resolved through negotiation, either party may file a lawsuit with the competent court under relevant laws.
 
-## 부칙
+## Supplementary Provisions
 
-본 약관은 **2026년 2월 9일**부터 시행됩니다.
+These Terms of Service take effect from **February 9, 2026**.

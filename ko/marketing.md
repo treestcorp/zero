@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 ---
 
 # Nudgy — 영어, 직접 써봐야 늘어요

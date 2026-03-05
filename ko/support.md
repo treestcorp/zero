@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 ---
 
 # Nudgy 고객 지원
